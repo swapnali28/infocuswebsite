@@ -29,7 +29,9 @@
     z-index: 99;
 }
 
-
+.career-img{
+    background-image: url("img/.career-img.jpeg");
+}
 /*** Heading ***/
 h1,
 h2,
@@ -209,6 +211,7 @@ h6,
     left: 0;
     background: var(--dark);
 }
+
 
 .section-title::after {
     position: absolute;
